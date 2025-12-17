@@ -11,7 +11,7 @@
 
 [![Alokesh Maitra profile views](https://u8views.com/api/v1/github/profiles/145488171/views/total-count.svg)](https://u8views.com/github/GLXALOKESH)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glxalokesh" alt="glxalokesh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GLXALOKESH" alt="glxalokesh" /></a> </p>
 
 - 🔭 I’m currently working on **Agrivest**
 
