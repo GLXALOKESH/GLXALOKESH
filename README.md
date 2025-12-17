@@ -1,15 +1,15 @@
-## Hi there 👋
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Profile Welcome Banner" />
 </div>
 
-[![Alokesh Maitra profile views](https://u8views.com/api/v1/github/profiles/145488171/views/total-count.svg)](https://u8views.com/github/GLXALOKESH)
+
 
 <h1 align="center">Hi 👋, I'm Alokesh Maitra</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glxalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="glxalokesh" /> </p>
+[![Alokesh Maitra profile views](https://u8views.com/api/v1/github/profiles/145488171/views/total-count.svg)](https://u8views.com/github/GLXALOKESH)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glxalokesh" alt="glxalokesh" /></a> </p>
 
